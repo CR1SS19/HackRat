@@ -23,3 +23,7 @@
   * [FTP](post-exploitation/file-transfer/ftp.md)
   * [HEX](post-exploitation/file-transfer/hex.md)
   * [File Type](post-exploitation/file-transfer/file-type.md)
+
+## 👀 Miscellaneous
+
+* [Page 3](miscellaneous/page-3.md)
