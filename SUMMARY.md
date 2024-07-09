@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤖 WELCOME](README.md)
+* [🤖 HOME](README.md)
 
 ## 🔎 Reconnaissance
 
